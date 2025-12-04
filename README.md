@@ -1,0 +1,18 @@
+This project builds a machine learning model to forecast daily sales for Rossman Stores. 
+
+
+Files (run in this order)
+
+rossman_eda.py — loads and prepares the training data
+rossman_model.py — trains models 
+rossman_predictor.py — loads the saved model and creates predictions
+make_readable_predictions.py — creates a human-readable version of the predictions
+README.me
+
+
+Dataset
+
+Rossman Store Sales dataset
+	train.csv
+	store.csv
+	test.csv
